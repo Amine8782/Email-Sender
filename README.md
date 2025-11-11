@@ -37,19 +37,6 @@ Usage :
     Then the script will start sending emails .
 
 
-Tags :
-
-	Tag					Example					Description
-
-	##email##			john.smith@example.com	The email address of the user.
-	##name##			John Smith				The name of the user.
-	##link##			random_link				A random link from links.txt.
-	##random_number##	2545572					A randomly generated number.
-	##random_string##	8qg3qh3					A randomly generated string of characters.
-	##time##			09:45:25				The current time.
-	##date##			2023-06-07				The current date.
-	##date&time##		2023-06-07 09:45:25		The current date and time.
-
 Note :
 
     Use this script at your own risk.
