@@ -1,0 +1,2 @@
+smtp.office365.com|587|test@outlook.com|12345678
+smtp.office365.com|587|test@outlook.com|12345678
